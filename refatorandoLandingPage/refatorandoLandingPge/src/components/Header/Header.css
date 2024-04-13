@@ -1,0 +1,12 @@
+
+header {
+    background-color: #20232a;
+    color: #61dafb;
+    padding: 0 15px;
+  }
+  
+  header p {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
